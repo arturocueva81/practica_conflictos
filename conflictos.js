@@ -17,6 +17,13 @@ const integrantes = [
         rol: "Fullstack Developer",
         bio: "Estructura inicial del sistema lista para recibir las tarjetas de los nuevos ingenieros del equipo."
     }
+    {
+        id: 3,
+        nombre: "ESTUDIANTE B",
+        rol: "FRONT END ENGINEER",
+        bio: "Lorem ipsum, lorem............."
+
+    }
 ];
 
 // Función para renderizar las tarjetas dinámicamente en el HTML
