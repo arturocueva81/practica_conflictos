@@ -45,7 +45,7 @@ body {
 
 /* --- TARJETA DE INTEGRANTE (Zona de Choque de Estilos) --- */
 .card {
-    background: #ffffff;
+    background: #dfa5a5;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
     padding: 2rem;
