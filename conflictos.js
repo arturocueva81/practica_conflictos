@@ -19,9 +19,9 @@ const integrantes = [
     },
     {
         id: 3,
-        nombre: "ESTUDIANTE B",
+        nombre: "JONATHAN LUNA DEV",
         rol: "FRONT END ENGINEER",
-        bio: "Lorem ipsum, lorem............."
+        bio: "Encargado de lo visual del sistema"
 
     }
 ];
